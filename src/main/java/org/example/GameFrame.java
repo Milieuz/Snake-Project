@@ -15,5 +15,4 @@ public class GameFrame extends JFrame {
         this.setLocationRelativeTo(null);
 
     }
-
 }
